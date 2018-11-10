@@ -94,22 +94,22 @@ $gameHeight = 720
 // Performance
 
 [Preset]
-name = (21:9) 1260x540
-$width = 1260
+name = (21:9) 1200x540
+$width = 1200
 $height = 540
 $gameWidth = 1280
 $gameHeight = 720
 
 [Preset]
-name = (21:9) 1680x720
-$width = 1680
+name = (21:9) 1600x720
+$width = 1600
 $height = 720
 $gameWidth = 1280
 $gameHeight = 720
 
 [Preset]
-name = (21:9) 2100x900
-$width = 2100
+name = (21:9) 2133x900
+$width = 2133
 $height = 900
 $gameWidth = 1280
 $gameHeight = 720
@@ -117,29 +117,29 @@ $gameHeight = 720
 // Quality 
 
 [Preset]
-name = (21:9) 2520x1080
-$width = 2520
+name = (21:9) 2560x1080
+$width = 2560
 $height = 1080
 $gameWidth = 1280
 $gameHeight = 720
 
 [Preset]
-name = (21:9) 3360x1440
-$width = 3360
+name = (21:9) 3440x1440
+$width = 3440
 $height = 1440
 $gameWidth = 1280
 $gameHeight = 720
 
 [Preset]
-name = (21:9) 5040x2160
-$width = 5040
+name = (21:9) 5160x2160
+$width = 5160
 $height = 2160
 $gameWidth = 1280
 $gameHeight = 720
 
 [Preset]
-name = (21:9) 6720x2880
-$width = 6720
+name = (21:9) 6880x2880
+$width = 6880
 $height = 2880
 $gameWidth = 1280
 $gameHeight = 720
@@ -147,15 +147,15 @@ $gameHeight = 720
 // Enthusiats
 
 [Preset]
-name = (21:9) 10080x4320
-$width = 10080
+name = (21:9) 10320x4320
+$width = 10320
 $height = 4320
 $gameWidth = 1280
 $gameHeight = 720
 
 [Preset]
-name = (21:9) 13440x5760
-$width = 13440
+name = (21:9) 13760x5760
+$width = 13760
 $height = 5760
 $gameWidth = 1280
 $gameHeight = 720
